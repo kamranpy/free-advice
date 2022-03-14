@@ -1,4 +1,4 @@
-# Free Advice React APP using API.
+# Free Advice React App using API.
 
 Live Demo: [Click here!](https://sad-kepler-dde5fb.netlify.app/)
 
