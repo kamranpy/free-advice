@@ -3,8 +3,6 @@ import React from "react";
 
 import "./App.css";
 
-const isLoading = false;
-
 class App extends React.Component {
   state = { advice: "" };
 
